@@ -7,9 +7,10 @@ Goorm EXP 클론 - 종합 학습 관리 플랫폼 + 카카오지도 API를 활�
 Goorm EXP의 핵심 기능을 재구현한 학습 관리 시스템입니다. 미션, 태스크, 그룹 학습을 통한 체계적인 학습 환경을 제공합니다.
 또한, 카카오지도 API를 활용한 스터디룸 예약, 취업공고 확인 기능을 자체적으로 확장 및 추가하였습니다.
 
-![스크린샷 2025-11-27 오전 5.10.54.png](attachment:9078d525-321e-4944-99a2-7c722db0dd68:스크린샷_2025-11-27_오전_5.10.54.png)
-![image.png](attachment:f9799374-545e-403a-bb33-4f3b54cace55:image.png)
-![image.png](attachment:f58c508a-2f72-4623-8478-3b15a9a0b13c:image.png)
+<img width="1470" height="800" alt="1" src="https://github.com/user-attachments/assets/21369950-176a-4bc3-be5c-f1753effedbd" />
+<img width="1626" height="1058" alt="2" src="https://github.com/user-attachments/assets/ad5de284-c95c-4d70-bda8-7899d53198eb" />
+<img width="1838" height="1252" alt="3" src="https://github.com/user-attachments/assets/5a74e3c7-0819-4a54-a4d7-bc79803812c8" />
+
 
 ## 주요 기능
 
@@ -87,7 +88,7 @@ npm run dev
 ## 문서
 
 Swagger UI: `http://localhost:8080/swagger-ui.html`
-![image.png](attachment:05472707-9290-401c-b21e-5a8123750ae9:image.png)
-![HugExp.png](attachment:17a8f477-493b-4c96-bcbb-3a23a99b0e4f:HugExp.png)
-![StudyRoom.png](attachment:fffffc95-09b8-4b1c-b717-4d07e955387a:StudyRoom.png)
-![지도 api.png](attachment:7967d763-c526-4ccc-8de2-b44b79c33ce4:지도_api.png)
+<img width="1864" height="1436" alt="4" src="https://github.com/user-attachments/assets/18c05b58-d7d2-4f70-8f92-8d446bbcc618" />
+<img width="3430" height="1582" alt="5" src="https://github.com/user-attachments/assets/98797f1f-277b-431c-8c1d-3491618a9e05" />
+<img width="1790" height="1232" alt="6" src="https://github.com/user-attachments/assets/7d3b623e-8d65-4a8b-818e-096ddff80fb9" />
+<img width="1490" height="712" alt="7" src="https://github.com/user-attachments/assets/a6bbe1b5-1a66-44ba-a2f3-4e1b6f21aab2" />
